@@ -2,6 +2,9 @@
 Repositório para acompanhamento de Roadmap para Engenharia de Dados.  
 Aqui encontrará informações sobre cada tópico, projetos, referências e utilitários. 
 
+### Coisas interessantes
+- Kaggle (datasets para exploração e aprendizagem)
+
 ### Linguagem de Programação 
 - Python  
 - Java  
