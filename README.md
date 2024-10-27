@@ -1,60 +1,105 @@
 # Data-Engineering
-Repositório para acompanhamento de Roadmap para Engenharia de Dados. Aqui encontrará informações sobre cada tópico, projetos, referências e utilitários. 
+Repositório para acompanhamento de Roadmap para Engenharia de Dados.  
+Aqui encontrará informações sobre cada tópico, projetos, referências e utilitários. 
 
-Linguagem de Programação 
-Python 
-Java 
-R 
-Scala 
+### Linguagem de Programação 
+- Python  
+- Java  
+- R  
+- Scala  
+
+### SQL
+
+### Testes
+
+### DevOps / DataOps
+- CI / CD  
+- Jenkins
+
+### Tratamento de dados / ETL
+
+### Pipelines
+
+### Cloud
+- AWS
+- Azure
+- GCP
+- Oracle
+
+### Visualização
+- Power BI
+- Tableu
+
+### Estatística
+
+### Machine Learning
+
+### Bancos de dados relacionais
+
+### Bancos de dados NoSQL
+
+### Versionamento / Gitflow
+- Git
+- Github
+- Gitlab
+
+### Gerenciamento de Projeto / Agile
+- Scrum
+- Kanbam  
  
- 
-Linguagem de Programação  
-CI / CD  
-Ferramenta de tratamento de dados / ETL  
-Ferramentas de pipeline  
-Serviços em nuvem  
-Ferramentas de visualização   
-Estatistica  
-Machine Learning   
-Database  
-Versionamento    
-Gerenciamento de Projeto / Agile / Scrum    
-Planilhas 
-Board / Apresentação 
-Gerenciamento de tempo / atividades  
-Arquivos  
-Streaming / Mensagens  
-Conteinerização   
-Governança  
-IA Generativa   
-Regulamento  
-?  
-IaC - Infrastructure as Code    
-Extensões Power Bi  
-Testes  
-Suíte Apache   
-SO  
-Segurança    
-Datawarehousing  
-Observabilidade  
-APIs   
-SQL   
-Python  
-ETL 
-Big Data Technologies  
-Data Modeling  
-Databases SQL/NoSQL   
-Data Warehousing / Data Lake / Lakehouse   
-Containering  
-IaC  
-Cloud Platforms   
-Gitflow  
-Linux / Bash  
-Workflow Management Tools / Orchestration    
-Data Governance  
-Streaming Technologies   
-CI / CD  
-MLOps  
-Networks  
-Project Strategies (Scrum / Kanban)   
-Authentication Methods  
+### Planilhas
+
+### IaC (Infrastructure as Code)
+
+### Virtualização / Containerização
+- Docker
+- Kubernetes
+- EKS (AWS)
+
+### Arquivos
+- JSON
+- CSV
+- Parquet
+
+### Mensagens
+- SNS (AWS)
+- Kafka
+
+### Streaming
+
+### Governança
+
+### Data Warehousing / Data Lake / Lakehouse
+- Redshift (AWS)
+
+### Modelagem de dados
+
+### Redes
+
+### Monitoramento / Observabilidade
+
+### Processamento de Dados
+- DBT
+- Spark
+
+### Databricks
+
+### Segurança / Autenticação
+
+
+### Linux / Bash
+
+
+### Workflow Management Tools / Orchestration   
+- Airflow
+
+### Clustering
+
+### MLOps
+
+### APIs
+
+### Big Data Technologies
+
+
+
