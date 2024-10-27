@@ -17,6 +17,9 @@ Aqui encontrará informações sobre cada tópico, projetos, referências e util
 - Jenkins
 
 ### Tratamento de dados / ETL
+#### Portfólio
+- Pandas
+- Spark
 
 ### Pipelines
 
@@ -101,5 +104,9 @@ Aqui encontrará informações sobre cada tópico, projetos, referências e util
 
 ### Big Data Technologies
 
-
+### Ferramentas de integração
+- Stitch
+- Fivetran
+- Airbyte
+- Dataddo
 
