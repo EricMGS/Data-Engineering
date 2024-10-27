@@ -4,6 +4,7 @@ Aqui encontrará informações sobre cada tópico, projetos, referências e util
 
 ### Coisas interessantes
 - Kaggle (datasets para exploração e aprendizagem)
+- Snowplow
 
 ### Linguagem de Programação 
 - Python  
